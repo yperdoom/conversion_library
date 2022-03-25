@@ -4,3 +4,4 @@ dateString = date.toDateString()
 
 console.log(date)
 
+console.log(dateString)
