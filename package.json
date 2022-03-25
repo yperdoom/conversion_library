@@ -1,0 +1,18 @@
+{
+  "name": "firstprogram",
+  "version": "1.0.0",
+  "description": "My first TS program, this program aims to emulate a data conversion library",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique Antunes Pinto <yperdoom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
